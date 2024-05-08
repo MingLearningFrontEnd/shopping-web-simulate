@@ -509,7 +509,7 @@ ul {
   display: none;
 }
 
-/** 顶部导航 **/
+/
 .xtx_topnav {
   background-color: #333;
 }
@@ -551,7 +551,7 @@ ul {
   color: #27BA9B;
 }
 
-/** 主导航及Logo **/
+
 .xtx_header .wrapper {
   display: flex;
   align-items: center;
